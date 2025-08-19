@@ -7,3 +7,7 @@ Since I am following KaupenJoe's series, and I have a fried new-gen brain, I'll 
 
   self note for day 1:
   - after commiting changes, ***push*** them to move them from the local repository (git / intelliJ) to Github
+ 
+day 2
+- huh, apparently I didn't need to write in this every day ! Well, I'll keep up documentation, adding the math functions was a lil' tuff
+  to wrap my head around tho.
