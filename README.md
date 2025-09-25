@@ -16,4 +16,4 @@ day 3
 - finally got my shiet done, noted, if you wanna group two classes together, make a folder for them!! no brainer 'till you forget to do it!!
 
 day 4
-- wasn't the best, but it is what is is ya know
+- forgot to document yesterday lmfao, so day 5 will also be today hwaha, it was pretty good now that I think about it
