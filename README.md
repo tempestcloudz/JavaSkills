@@ -17,3 +17,6 @@ day 3
 
 day 4
 - forgot to document yesterday lmfao, so day 5 will also be today hwaha, it was pretty good now that I think about it
+
+day 5
+- finished episode 9, leap year problem was a hell of a doozy, got it tho! excited for the next day.
