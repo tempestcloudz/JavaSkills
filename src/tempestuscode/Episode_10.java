@@ -80,7 +80,7 @@ public class Episode_10 {
 
 /*
 well, needless to say, I finished it! (but hella overcomplicated it)
-kaupenjoe's code is in the other class in this folder, but here's what I learned from it:
+here's what I learned from it:
 
 - you don't need to ask the same value in each switch case, you can just add it before the switch
 - break ends a loop, but in a switch it just ends the switch
