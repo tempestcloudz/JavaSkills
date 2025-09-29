@@ -87,5 +87,7 @@ here's what I learned from it:
 - again, you don't need to ask the value in each switch case, you can just add it after everything.
 - while(true) remains on forever (if true is never changed) or (if a break doesn't happen)
 
+anywayz, time to move on to the next episode!!
+
 
 */
