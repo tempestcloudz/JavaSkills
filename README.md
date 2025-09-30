@@ -23,3 +23,6 @@ day 5
 
 day 6
 - added episode 10, for some reason GitHub is putting it next to episode 1??? (might fix later)
+
+day 7 (six seven!)
+- added episode 11, easy episode, but likely the calm before the storm.
